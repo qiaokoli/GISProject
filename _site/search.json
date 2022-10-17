@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GISProject",
-    "section": "",
-    "text": "Welcome to our GIS Project website."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "overview.html",
     "href": "overview.html",
     "title": "Overview",
@@ -40,5 +26,19 @@
     "title": "Overview",
     "section": "Objectives",
     "text": "Objectives\nThe objectives of this project are as follows:\n\nobjective 1\nobjective 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GISProject",
+    "section": "",
+    "text": "Welcome to our GIS Project website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
   }
 ]
